@@ -1,0 +1,34 @@
+
+.fa {
+  color: #f56961;
+
+  padding-right: 50px;
+}
+.fa:hover {
+  color: #ff9999;
+}
+
+body {
+    background-image: url("6.jpg");
+    background-repeat: no-repeat;
+    color: #262626;
+}
+
+h1 {
+	font-family: 'Montserrat', serif;
+    font-size: 18px;
+    color: #262626;
+
+}
+
+.title {
+	font-family: 'Montserrat', serif;
+    font-size: 75px;
+}
+#credit {
+	font-family: 'Montserrat', serif;
+	font-size: 20px;
+	color: white;
+}
+
+
